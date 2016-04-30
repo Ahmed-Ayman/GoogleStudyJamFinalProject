@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import myapplication.sairamkrishna.example.com.moono.R;
 
-public class credit extends AppCompatActivity {
+public class about extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
