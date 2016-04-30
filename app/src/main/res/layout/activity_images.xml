@@ -22,7 +22,7 @@
             android:scaleType="fitXY"
             android:background="#3360d2"
             android:padding="20dp"
-            android:src="@drawable/nasa"
+            android:src="@drawable/logo"
             />
         <TextView
 
