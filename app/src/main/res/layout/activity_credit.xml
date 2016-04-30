@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".Options.credit">
+
+<TextView
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:gravity="center_horizontal"
+    android:background="#213b4b"
+    android:textColor="@android:color/white"
+
+    android:textSize="30sp"
+    android:text="Resources"/>
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textColor="#ffffff"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:textStyle="bold"
+    android:text="
+
+* Websites:
+1- http://lunarexploration.esa.int/#/gallery
+
+2- https://www.hq.nasa.gov
+
+3- https://www.google.com
+
+
+
+* Youtube Channels:
+1- National Science Teachers Association
+https://www.youutbe.com/channel/UCO9J_QXxyUAhBVjI2mR5o9g
+
+
+2- Happy learning Tv
+https://www.youtube.com/channel/UC8eJxPzmvTb12v7LlZUJcLQ
+
+
+3- NASA Goddard
+https://www.youtube.com/user/NASAexplorer
+
+4- T-Series Kids Hut
+https://www.youtube.com/channel/UChz5aEi3dfrDVC8-YJsMUDA
+
+5- KidsTV123
+https://www.youtube.com/channel/UCtgpDqkeOToveUgh8igrvXQ
+
+"/>
+    <TextView
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:gravity="center_horizontal"
+        android:background="#213b4b"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:text="about"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        android:text="Tera Byte for developing and training "/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:textColor="@android:color/white"
+        android:text="founded by : Ahmed Ayman"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:textColor="@android:color/white"
+        android:text=" Contact : terabyte055@gmail.com "/>
+<View
+    android:layout_width="wrap_content"
+    android:layout_height="0dp"
+    android:layout_weight="1">
+
+</View>
+</LinearLayout>
+</ScrollView>
