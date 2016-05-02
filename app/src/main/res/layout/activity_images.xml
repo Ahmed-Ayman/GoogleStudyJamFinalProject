@@ -22,7 +22,7 @@
             android:scaleType="fitXY"
             android:background="#3360d2"
             android:padding="20dp"
-            android:src="@drawable/logo"
+            android:src="@android:drawable/ic_menu_camera"
             />
         <TextView
 
