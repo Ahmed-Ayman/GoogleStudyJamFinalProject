@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="myapplication.sairamkrishna.example.com.moono"
     android:hardwareAccelerated="true"
-    android:installLocation="preferExternal"
+    android:installLocation="auto"
     android:largeHeap="true"
     android:supportsRtl="true">
 
@@ -35,7 +35,7 @@
         <activity android:name=".Options.StoryAndChallenge.challenges.Ch1" />
         <activity android:name=".Options.StoryAndChallenge.challenges.Ch2" />
         <activity android:name=".Options.LearnAndEarn.ApolloDetail" />
-        <activity android:name=".Options.credit" />
+        <activity android:name=".Options.about" />
         <activity android:name=".Options.Gallary.LatestImageByNasa"></activity>
     </application>
 
