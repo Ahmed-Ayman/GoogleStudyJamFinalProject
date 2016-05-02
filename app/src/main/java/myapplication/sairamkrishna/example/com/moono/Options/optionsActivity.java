@@ -133,7 +133,7 @@ public class optionsActivity extends AppCompatActivity {
         credits.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent1 = new Intent(optionsActivity.this, credit.class);
+                Intent intent1 = new Intent(optionsActivity.this, about.class);
                 startActivity(intent1);
 
             }
