@@ -13,8 +13,7 @@ import myapplication.sairamkrishna.example.com.moono.adapter.imageAdapter;
 
 public class Images extends AppCompatActivity {
     Integer[] images = {R.drawable.image4,R.drawable.image1 , R.drawable.image2,R.drawable.im5,R.drawable.image6,R.drawable.image7,R.drawable.image9,R.drawable.image10,
-    R.drawable.gal1,R.drawable.gal2,R.drawable.gal3,R.drawable.gal4,R.drawable.gal5,R.drawable.gal6,R.drawable.gal7,R.drawable.gal8
-    ,R.drawable.gal9};
+    R.drawable.gal1};
     imageAdapter adapter ;
     ListView listView;
     ImageButton nasa;
